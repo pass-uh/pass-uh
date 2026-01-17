@@ -8,7 +8,7 @@ permalink: /
 
 We are a dynamic research group at the department of [Computer Science](https://cs.uh.edu) and at the [University of Houston](http://uh.edu). 
 
-We have two overarching goals: first, understanding, proving, and guarantying  
+We have two overarching goals: first, understanding, proving, and guaranteeing  
 **Software Quality**, including bug finding, security vulnerability detection, and even patch generation. Second, to help improve the **Software Productivity** though novel approaches. We particularly focus on efficient and effective code translation and program synthesis. 
 
 
