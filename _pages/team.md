@@ -272,7 +272,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-{% if false %}
+{% if site.data.alumni_members.size > 0 %}
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -335,32 +335,42 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+{% endif %}
+
+{% if site.data.alumni_visitors.size > 0 or site.data.alumni_msc.size > 0 or site.data.alumni_bsc.size > 0 %}
 
 ## Former visitors, BSc/ MSc students
 <div class="row">
 
+{% if site.data.alumni_visitors.size > 0%}
 <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
+{% endif %}
 
+{% if site.data.alumni_msc.size > 0%}
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
+{% endif %}
 
+{% if site.data.alumni_bsc.size > 0%}
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
 </div>
+{% endif %}
 
 </div>
+
 {% endif %}
 
 
