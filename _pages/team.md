@@ -362,7 +362,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 {% if site.data.alumni_bsc.size > 0%}
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<h4>Undergrad Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
