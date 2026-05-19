@@ -1,20 +1,15 @@
+
+- name: Sushant Dotel
+  photo: Sushant.jpeg
+  info: M.S Graduatee, joined since Summer 2026
+  email: sdotel@CougarNet.UH.EDU
+  number_educ: 0  
+  
 - name: Steven Sanchez
   photo: Steven.JPG
   info: Undergrad Student, joined since Fall 2025
   email: ssanch55@CougarNet.UH.EDU
   number_educ: 0  
-
-- name: Hieu Nguyen
-  photo: Hieu.jpeg
-  info: Undergrad Student, joined since Fall 2025
-  email: hbnguy26@CougarNet.UH.EDU
-  number_educ: 0    
-
-- name: Hung Hoang
-  photo: Hung.jpeg
-  info: Undergrad Student, joined since Spring 2026
-  email: hghoang2@CougarNet.UH.EDU
-  number_educ: 0    
 
 - name: Shaheer H Abbasi
   photo: Shaheer.jpeg
