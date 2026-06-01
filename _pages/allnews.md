@@ -10,9 +10,6 @@ permalink: /allnews.html
 
 {% for article in site.data.news %}
 <p style="color: #478dd8;">{{ article.date }}</p> 
-<p>
   {{ article.headline | markdownify}}
 <br>
-<br>
-</p>
 {% endfor %}
