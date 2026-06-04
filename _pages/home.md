@@ -18,11 +18,7 @@ We have two overarching goals: first, understanding, proving, and guaranteeing
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <!--li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li-->
+        
     </ol>
 
     <!-- Items -->
@@ -34,20 +30,8 @@ We have two overarching goals: first, understanding, proving, and guaranteeing
             <img src="https://uh.edu/about/mission/mission-banner.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="https://uh.edu/about/mission/mission-banner.jpg" alt="Slide 3" />
+            <img src="https://www.uh.edu/class/sociology/_images/landing-pgs/pgh2.jpg" alt="Slide 3" />
         </div>
-        <div class="item">
-            <img src="https://uh.edu/about/mission/mission-banner.jpg" alt="Slide 4" />
-        </div>
-        <!--div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
-        </div-->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
