@@ -26,11 +26,14 @@ We have two overarching goals: first, understanding, proving, and guaranteeing
         <div class="item active">
             <img src="https://www.uh.edu/nsm/_images/nsm/news-events/2026/20260428-research-showcase.jpg" alt="Slide 1" />
         </div>        
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Chanchal_Visist_2026.JPG" alt="Slide 2" />
+        </div>        
         <div class="item">
-            <img src="https://uh.edu/about/mission/mission-banner.jpg" alt="Slide 2" />
+            <img src="https://uh.edu/about/mission/mission-banner.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="https://www.uh.edu/class/sociology/_images/landing-pgs/pgh2.jpg" alt="Slide 3" />
+            <img src="https://www.uh.edu/class/sociology/_images/landing-pgs/pgh2.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
