@@ -11,6 +11,13 @@
   email: sashfaq@CougarNet.UH.EDU
   number_educ: 0
 
+- name: Sushant Dotel
+  photo: Sushant.jpg
+  info: PhD Student, joined since Fall 2026
+  email: sdotel@central.uh.edu
+  #website: https://www.linkedin.com/in/sadegh-almahdi-kazemi
+  number_educ: 0  
+
 # 
 # - name: Ibrahim Idn
 #   photo: Ibrahim.png
